@@ -1,4 +1,4 @@
-This is the source code used to verify some of the security properties of the PSM protocol.
+This is the source code used to verify some of the security properties of the PRM protocol.
 
 The folder contains the ProVerif code and the executable for ProVerif.
 
